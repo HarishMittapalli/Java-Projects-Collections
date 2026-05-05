@@ -43,5 +43,7 @@ class ChangeLabelDemo:
     
     def processButton(self):
         self.lbl["text"] = self.msg.get() # New text for the label
+
+Added a new line in this
         
 ChangeLabelDemo() # Create GUI 
